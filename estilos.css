@@ -1,0 +1,96 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;	
+}
+@font-face{
+	font-family:'textobase';
+	src: ('../textos/arial.ttf') format('truetype'););
+}
+header{
+	position: relative;
+    width:130%;
+    height:160px;
+	margin-left: -152px;
+    background-color:rgba(255,255,255,0.3);
+    overflow: hidden;
+	border-radius:10px 10px 10px 10px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.9);
+	border-bottom: 3px solid #1a1a1a;
+	z-index:2;
+}
+body {
+	margin: 0px auto;
+	padding: 0px;
+	background-image: url(../imagenes/body.gif) ;   /*Old browsers*/ 
+	background: -moz-linear-gradient(top,url(../imagenes/body.gif) ); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b5bdc8), color-stop(40%,#828c95), color-st	op(100%,#28343b)); Chrome,Safari4
+	/*background: -webkit-linear-gradient(top, #b5bdc8 0%,#828c95 40%,#28343b 100%); /* Chrome10+,Safari5.1+ */
+	/*background: -o-linear-gradient(top, #b5bdc8 0%,#828c95 40%,#28343b 100%); /* Opera 11.10+ */
+	/*background: -ms-linear-gradient(top, #b5bdc8 0%,#828c95 40%,#28343b 100%); /* IE10+ */
+	/*background: linear-gradient(to bottom, #b5bdc8 0%,#828c95 40%,#28343b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=0 ); 	/* IE6-9 */
+	width:1000px;
+	height:1000px;
+	}
+#sectiontotal{
+	/*position: relative;*/
+	background-image: url(../imagenes/fondo2.gif) ;
+    top: 1px;
+	margin: auto;
+	padding: 0;
+    width:800px;
+    height:auto;
+    background-color:rgba(255,255,255,0.0);
+    border-radius: 0px 0px 25px 25px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.9);
+		padding-bottom:40px;
+	}
+#clear{
+	clear:both;
+}
+#sectiontotal1{
+	position: relative;
+	background-image: url(../imagenes/fondo2.gif) ;
+    top: 1px;
+	margin: auto;
+	padding: 0;
+    width:800px;
+    height:850px;
+    background-color:rgba(255,255,255,0.0);
+    border-radius: 0px 0px 25px 25px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.9);
+	z-index: 1;
+	}
+
+footer{
+	position: relative;
+	top: 8px;
+    bottom:1%;
+    margin: 0 auto;
+	padding: 0;
+    width:850px;
+    height:0px;
+    background-color:rgba(242,121,0,0.4);
+    font-size:0.8em;
+    color: rgb(255,255,255);
+    padding-top:10px;
+	padding-bottom:20px;
+    overflow: hidden;
+    border-radius:20px 20px 20px 20px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.8);
+    text-align: center;	
+	z-index: 3;
+}

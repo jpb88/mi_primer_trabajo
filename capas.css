@@ -1,0 +1,456 @@
+
+#capa-principal{
+	z-index: 2;
+    position: absolute;
+    top: 25%;
+    left: 34%;
+    width:33%;
+    height:25%;
+    margin: auto;
+    text-align: center;
+    border-radius:40px 40px 40px 40px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(255,200,100,0.3);
+	/*background: #FFFFFF;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#FFFFFF), to(#aab0b0));
+	background: -webkit-linear-gradient(#FFFFFF, #aab0b0);
+	background: -moz-linear-gradient(#FFFFFF, #aab0b0);
+	background: -ms-linear-gradient(#FFFFFF, #aab0b0);
+	background: -o-linear-gradient(#FFFFFF, #aab0b0);
+	background: linear-gradient(#FFFFFF, #aab0b0);
+	-pie-background: linear-gradient(#FFFFFF, #aab0b0);*/
+	
+}
+#capa-formulario{
+	z-index: 2;
+    position: absolute;
+    top: 7%;
+    left: 8%;
+    width:60%;
+    height:65%;
+	overflow: hidden;
+    margin: auto;
+    text-align: auto;
+    border-radius:20px 20px 20px 20px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.8);
+	background-color: rgba(0,0,0,0.0);
+	/*background: #FFFFFF;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#FFFFFF), to(#aab0b0));
+	background: -webkit-linear-gradient(#FFFFFF, #aab0b0);
+	background: -moz-linear-gradient(#FFFFFF, #aab0b0);
+	background: -ms-linear-gradient(#FFFFFF, #aab0b0);
+	background: -o-linear-gradient(#FFFFFF, #aab0b0);
+	background: linear-gradient(#FFFFFF, #aab0b0);
+	-pie-background: linear-gradient(#FFFFFF, #aab0b0);*/
+
+}
+#capa-nota{
+	z-index: 2;
+    position: absolute;
+    top: 92%;
+    left: 1%;
+    width:97%;
+    height:30%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 00px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+	}
+#capa-publicidad1{
+	z-index: 2;
+    position: absolute;
+    top: 2%;
+    left: -21%;
+    width:20%;
+    height:20%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 00px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+	}
+#capa-publicidad{
+	z-index: 2;
+    position: absolute;
+    top: 2%;
+    left: 101%;
+    width:20%;
+    height:86%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+}
+#capa-anillos{
+	z-index: 2;
+    position: absolute;
+    top: 10%;
+    left: 4%;
+    width:92%;
+    height:80%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(250,200,100,0.0);
+}
+#capa-articulos{
+	z-index: 2;
+    position: absolute;
+    top: 6%;
+    left: 4%;
+    width:75%;
+    height:92%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(250,200,100,0.0);
+	}
+#capa-articulo1{
+	z-index: 2;
+    position: absolute;
+    top: 13%;
+    left: 80%;
+    width:20%;
+    height:70%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 0px 20px 0px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+	background-color: rgba(250,200,100,0.3);
+	
+	}
+#capa-empresa{
+	
+z-index: 2;
+    position: absolute;
+    top: 10%;
+    left: 1%;
+    width:70%;
+    height:5%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 20px 0px 20px 0px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+	background-color: rgba(250,200,100,0.1);
+
+}
+#capa-mision{
+	
+z-index: 2;
+    position: absolute;
+    top: 12%;
+    left: 57%;
+    width:35%;
+    height:34%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+
+}
+#capa-mision1{
+	
+z-index: 2;
+    position: absolute;
+    top: 20%;
+    left: 1%;
+    width:60%;
+    height:30%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+	}
+#capa-vision{
+	
+z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    width:50%;
+    height:40%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+	
+	}
+#capa-vision1{
+	
+z-index: 2;
+    position: absolute;
+    top: 53%;
+    left: 1%;
+    width:60%;
+    height:30%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+
+}
+
+#capa-imagen{
+	
+z-index: 2;
+    position: absolute;
+    top: 31%;
+    left: 0%;
+    width:45%;
+    height:69%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px 0px 0px 20px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.0);
+	background-color: rgba(0,0,0,0.0);
+	}
+#capa-pendientes{
+	z-index: 2;
+    position: absolute;
+    top: 21%;
+    left: 4%;
+    width:92%;
+    height:68%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(250,200,100,0.3);
+	
+}
+
+#capa-bienvenido2{
+	z-index: 2;
+   /* position: absolute;*/
+    top: 7%;
+    left:5%;
+    width:90%;
+    height:80%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 20px;
+}
+#capa-paginas{
+	z-index: 2;
+    position: absolute;
+    top: 98%;
+    left:41%;
+    width:19%;
+    height:3%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+}
+#capa-definicion{
+	z-index: 2;
+    position: absolute;
+    top: 19%;
+    left: 9%;
+    width:37%;
+    height:59%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	box-shadow: 10px 10px 9px rgba(0,0,0,0.6);
+	border-radius: 0px 15px 0px 15px;
+}
+#capa-definicion1{
+	z-index: 2;
+    position: absolute;
+    top: 19%;
+    left: 53%;
+    width:37%;
+    height:59%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	box-shadow: 10px 10px 9px rgba(0,0,0,0.6);
+	border-radius: 0px 15px 0px 15px;
+}
+
+#capa-pulseras{
+	
+z-index: 2;
+    position: absolute;
+    top: 11%;
+    left: 8%;
+    width:27%;
+    height:26%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(250,200,100,0.3);
+	
+	
+}	
+#capa-collares{
+	
+z-index: 2;
+    position: absolute;
+    top: 10%;
+    left: 63%;
+    width:27%;
+    height:26%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(250,200,100,0.3);
+	
+	}
+
+#capa-reloj{
+	
+z-index: 2;
+    position: absolute;
+    top: 37%;
+    left: 35%;
+    width:28%;
+    height:25%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(250,200,100,0.3);
+}	
+	
+#capa-anillos1{
+	
+z-index: 2;
+    position: absolute;
+    top: 63%;
+    left: 8%;
+    width:28%;
+    height:26%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(250,200,100,0.3);
+}	
+#capa-pendientes1{
+	
+z-index: 2;
+    position: absolute;
+    top: 62%;
+    left: 63%;
+    width:28%;
+    height:26%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+	background-color: rgba(250,200,100,0.3);
+	}
+#capa-idpulseras{
+	z-index: 2;
+    position: absolute;
+    top: 37%;
+    left:12%;
+    width:19%;
+    height:3%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+}
+#capa-idcollares{
+	z-index: 2;
+    position: absolute;
+    top: 36%;
+    left:67%;
+    width:19%;
+    height:3%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+}
+
+#capa-idanillos{
+	z-index: 2;
+    position: absolute;
+    top: 89%;
+    left:13%;
+    width:19%;
+    height:3%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+}
+#capa-idpendientes{
+	z-index: 2;
+    position: absolute;
+    top: 88%;
+    left:68%;
+    width:19%;
+    height:3%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+}
+#capa-idreloj{
+	z-index: 2;
+    position: absolute;
+    top: 63%;
+    left:40%;
+    width:19%;
+    height:3%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+}
+#capa-contacto{
+	z-index: 2;
+    position: absolute;
+    top: 12%;
+    left:2%;
+    width:45%;
+    height:50%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+
+}
+#capa-mapaimagen{
+	z-index: 2;
+    position: absolute;
+    top: 18%;
+    left:49%;
+    width:50%;
+    height:59%;
+	overflow: hidden;
+    margin: auto;
+    text-align: center;
+	border-radius: 0px 0px 0px 0px;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.8);
+	
